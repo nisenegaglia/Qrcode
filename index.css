@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: 0px;
+}
+
+body {
+  background-color: Lightgray(hsl (212, 45%, 89%));
+}
